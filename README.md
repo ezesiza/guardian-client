@@ -1,4 +1,4 @@
-# linguist
+# guardian-client
 
 ## Project setup
 ```
